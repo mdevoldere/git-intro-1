@@ -1,2 +1,1 @@
-# git-intro-1 mickael devoldere
-
+# git-intro-1 mickael devoldere jerome
